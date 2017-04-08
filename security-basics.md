@@ -1,18 +1,18 @@
-#**Security Basics in Mobile Computing**
+# **Security Basics in Mobile Computing**
 
-##Problems with Mobile Apps
+## Problems with Mobile Apps
 
     - Poor session management
     - Data leakage and lack of encryption
     - Insufficient input validation
 
-##Security Problems in Medical Control Apps
+## Security Problems in Medical Control Apps
 
     - Sensors have poor security protocols
     - They don't have the resources for strong security
     - Unprotected wifi, low storage, etc.
 
-##Mobile App Safety Inter-relation
+## Mobile App Safety Inter-relation
 
     - Security vulnerabiltiy can cause harm
         . Security protcols can add unexpected delays within the system
