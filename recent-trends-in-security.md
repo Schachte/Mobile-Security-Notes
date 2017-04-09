@@ -39,6 +39,7 @@
     - Poisoning Attack
         . Attacker doesn't have the training set, but the attacker can "influence" the machine by sending in some training data made by the hacker.
         . Think of dude jumping in front of uber car to fk up the learning process
+        . You <b>CAN</b> see the training data
         . Think about SVM, you feed in enough data to shift the line of classification in order to rule in your favorable classification value
     - Evasion Attack
         . Monitoring heart + activity (validation)
