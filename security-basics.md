@@ -9,7 +9,7 @@
 ## Security Problems in Medical Control Apps
 
     - Sensors have poor security protocols
-    - They don't have the resources for strong security
+    - Sensors do not have the resources for strong security
     - Unprotected wifi, low storage, etc.
 
 ## Mobile App Safety Inter-relation
